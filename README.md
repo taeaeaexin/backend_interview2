@@ -25,8 +25,9 @@
 
 **[데이터베이스]**
 <details>
- <summary></summary>
+ <summary>자세히 보기</summary>
   <p>
+  - SQL (Structure Query Language) : 데이터에 대한 질의 언어
    
   </p>
 </details>
