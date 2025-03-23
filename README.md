@@ -7,6 +7,7 @@
 <details>
  <summary></summary>
   <p>
+  - 변수(Variable) : 하나의 값을 저장할 수 있는 메모리 번지에 붙혀진 이름
    
   </p>
 </details>
@@ -27,7 +28,7 @@
 <details>
  <summary>자세히 보기</summary>
   <p>
-  - SQL (Structure Query Language) : 데이터에 대한 질의 언어
+  - SQL(Structure Query Language) : 데이터에 대한 질의 언어
    
   </p>
 </details>
