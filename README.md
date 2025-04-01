@@ -36,21 +36,13 @@
 
 <br>
 
-**[프론트엔드]**
-<details>
- <summary></summary>
-  <p>
-   
-  </p>
-</details>
-
-<br>
-
 **[스프링 프레임워크]**
 <details>
  <summary></summary>
   <p>
-  - HTTP Protocol : Stateless
+   - JPA : 자바에서 RDB를 사용하는 방식을 정의한 인터페이스(ORM 프레임워크 추가로 선택해야 함). SQL이 아닌 자바 언어로 DB 조작 가능.
+   - ORM(Object Relational Mapping) : 객체와 RDB 간에 Data를 자동으로 매핑해주는 기술
+   - HTTP Protocol : Stateless
    
   </p>
 </details>
