@@ -8,6 +8,7 @@
  <summary></summary>
   <p>
   - 변수(Variable) : 하나의 값을 저장할 수 있는 메모리 번지에 붙혀진 이름
+  - 싱글톤 패턴(Singleton)
    
   </p>
 </details>
