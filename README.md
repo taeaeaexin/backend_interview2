@@ -46,6 +46,7 @@
    - MyBatis : DB를 쉽게 다룰 수 있도록 도와주는 오픈 소스 ORM, 동적 쿼리 작성
    - ORM(Object Relational Mapping) : 객체와 RDB 간에 Data를 자동으로 매핑해주는 기술
    - HTTP Protocol : Stateless   
+   - Templete Engine : 템플릿 양식과 특정 데이터 모델에 따른 입력 자료를 합성하여 결과 문서를 출력하는 소프트웨어
   </p>
 </details>
 
