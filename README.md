@@ -42,6 +42,7 @@
 <details>
  <summary></summary>
   <p>
+   - JSON : 서버에서 클라이언트로 데이터를 보낼 때 사용하는 양식
    - JPA : 자바에서 RDB를 사용하는 방식을 정의한 인터페이스(ORM 프레임워크 추가로 선택해야 함). SQL이 아닌 자바 언어로 DB 조작 가능.
    - MyBatis : DB를 쉽게 다룰 수 있도록 도와주는 오픈 소스 ORM, 동적 쿼리 작성
    - ORM(Object Relational Mapping) : 객체와 RDB 간에 Data를 자동으로 매핑해주는 기술
