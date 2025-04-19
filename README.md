@@ -48,6 +48,7 @@
    - ORM(Object Relational Mapping) : 객체와 RDB 간에 Data를 자동으로 매핑해주는 기술
    - HTTP Protocol : Stateless   
    - Templete Engine : 템플릿 양식과 특정 데이터 모델에 따른 입력 자료를 합성하여 결과 문서를 출력하는 소프트웨어
+   - Json Web Token(JWT) : 인증에 필요한 정보들을 Token에 담아 암호화
   </p>
 </details>
 
