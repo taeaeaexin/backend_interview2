@@ -49,6 +49,7 @@
    - HTTP Protocol : Stateless   
    - Templete Engine : 템플릿 양식과 특정 데이터 모델에 따른 입력 자료를 합성하여 결과 문서를 출력하는 소프트웨어
    - Json Web Token(JWT) : 인증에 필요한 정보들을 Token에 담아 암호화
+   - Pointcut : 특정 조건에 의해 필터링된 조인포인트, 수많은 조인포인트 중에 특정 메소드에서만 횡단 공통기능을 수행시키기 위해서 사용
   </p>
 </details>
 
