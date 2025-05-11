@@ -33,6 +33,8 @@
  <summary>7. 응답 반환</summary>
 </details>
 
+<br>
+
 ## 개발 순서별 공부
 
 <details>
